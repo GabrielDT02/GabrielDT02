@@ -39,7 +39,7 @@
   
   
   <br><br>
-  <hr>
+  ##
   <!-- SOCIAL MEDIA -->
   <div> 
 
