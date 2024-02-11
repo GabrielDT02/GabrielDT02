@@ -15,9 +15,9 @@
 <!--STATS -->
 
 <div align="center">
-  <a href="https://github.com/GabrielDT02">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDT02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDT02&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/GabrielDineckTremarin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielDineckTremarin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDineckTremarin&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   ##
